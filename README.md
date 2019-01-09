@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/niesssiobhan/12-express)
-* [travis](http://xyz.com)
+* [travis](https://travis-ci.com/niesssiobhan/12-express)
 
 ### Modules
 #### `server.js`
