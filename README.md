@@ -12,6 +12,9 @@
 ### Modules
 #### `server.js`
 #### `routes.js`
+#### `categoreis.js`
+#### `products.js`
+#### `schema.js`
 ##### Exported Values and Methods
 
 ### What to do
@@ -24,15 +27,14 @@ Only with a good object, should a write operation be allowed to occur
 * Add support for a second model (with it’s own routes and database)
 
 ###### Collaborator
-*George
+* George
 
 ### Setup
 #### `.env` requirements
 * `PORT` - Port Number 8080
 
 #### Running the app
-* `npm start`
-* `node index.js`
+* you will want to start off by running `nodemon index.js`
 
 #### Tests
 * How do you run tests?
